@@ -1,2 +1,2 @@
 # RubberDuckyExtension
-Chrome Extension for a RUbber Ducky Companion :)
+Chrome Extension for a Rubber Ducky Companion :)
