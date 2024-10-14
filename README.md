@@ -1,5 +1,6 @@
 # RubberDuckyExtension
-Chrome Extension for a Rubber Ducky Companion :)
+Chrome Extension for a Rubber Ducky Companion 
+by Anne-Marie Sabina and Anya Zorin
 
 
 ## Extension Setup
